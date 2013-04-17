@@ -10,11 +10,11 @@
 
 namespace cascade
 {
-	class ___FILEBASENAME___
-	{
-	public:
-		___FILEBASENAME___();
-		~___FILEBASENAME___();
-	private:
-	};
+  class ___FILEBASENAME___
+  {
+  public:
+    ___FILEBASENAME___();
+    ~___FILEBASENAME___();
+  private:
+  };
 }
