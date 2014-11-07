@@ -1,5 +1,5 @@
 /*
- * Copyright (c) ___YEAR___ ___FULLUSERNAME___
+ * Copyright (c) ___YEAR___ ___FULLUSERNAME___, sansumbrella.com
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or
@@ -25,11 +25,12 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#include "___FILEBASENAME___.h"
+#pragma once
 
-___FILEBASENAME___::___FILEBASENAME___()
-{}
-
-___FILEBASENAME___::~___FILEBASENAME___()
-{}
-
+class ___FILEBASENAME___
+{
+public:
+  ___FILEBASENAME___();
+  ~___FILEBASENAME___();
+private:
+};

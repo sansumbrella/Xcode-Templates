@@ -1,8 +1,6 @@
 //
-//  ___FILENAME___
-//  ___PROJECTNAME___
-//
-//  Copyright (c) ___YEAR___ ___FULLUSERNAME___. All rights reserved.
+//  Copyright (c) ___YEAR___ ___FULLUSERNAME___, sansumbrella.com.
+//  All rights reserved.
 //
 
 #pragma once
