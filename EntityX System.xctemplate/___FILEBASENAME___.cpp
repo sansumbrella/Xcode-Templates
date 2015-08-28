@@ -6,6 +6,7 @@
 #include "___FILEBASENAME___.h"
 
 using namespace entityx;
+using namespace sansumbrella;
 
 ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___()
 {}

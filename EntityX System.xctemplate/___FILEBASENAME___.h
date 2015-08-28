@@ -7,6 +7,9 @@
 
 #include "entityx.h"
 
+namespace sansumbrella
+{
+
 class ___FILEBASENAMEASIDENTIFIER___;
 using ___FILEBASENAMEASIDENTIFIER___Ref = std::shared_ptr<___FILEBASENAMEASIDENTIFIER___>;
 
@@ -19,3 +22,5 @@ public:
   void update( entityx::EntityManager &entities, entityx::EventManager &events, entityx::TimeDelta dt) override;
 private:
 };
+
+} // namespace sansumbrella
